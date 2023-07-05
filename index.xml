@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marshall&#39;s Blog</title>
-    <link>http://example.org/</link>
+    <link>https://marshallstone.github.io/</link>
     <description>Recent content on Marshall&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jun 2023 22:31:33 -0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jun 2023 22:31:33 -0400</lastBuildDate><atom:link href="https://marshallstone.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://marshallstone.github.io/about/</link>
       <pubDate>Tue, 04 Jul 2023 22:15:33 -0400</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://marshallstone.github.io/about/</guid>
       <description>Hi</description>
     </item>
     
     <item>
       <title>First Post</title>
-      <link>http://example.org/posts/first-post/</link>
+      <link>https://marshallstone.github.io/posts/first-post/</link>
       <pubDate>Wed, 28 Jun 2023 22:31:33 -0400</pubDate>
       
-      <guid>http://example.org/posts/first-post/</guid>
+      <guid>https://marshallstone.github.io/posts/first-post/</guid>
       <description>Under development&amp;hellip;</description>
     </item>
     
